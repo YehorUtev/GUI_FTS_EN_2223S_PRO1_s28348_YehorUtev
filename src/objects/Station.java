@@ -29,9 +29,9 @@ public class Station{
             return false;
         }
         if(!stationMap.containsKey(station) && (station.getId() != this.id) && station.getStationMap().size() < 10){
-            int distance = (int)Math.ceil(Math.random()*100*Math.ceil(Math.random()*4));
+            int distance = (int)(Math.random()*(800 - 300) + 300);
             while(distance < 100){
-                distance = (int)Math.ceil(Math.random()*100*Math.ceil(Math.random()*4));
+                distance = (int)(Math.random()*(800 - 300) + 300);
             }
             stationMap.put(station, distance);
         }

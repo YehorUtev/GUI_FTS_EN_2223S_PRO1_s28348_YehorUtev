@@ -25,7 +25,7 @@ public class Train implements Runnable{
         this.locomotive = new Locomotive();
         this.route = new ArrayList<>();
         this.id = id;
-        this.speed = 170;
+        this.speed = 120;
         this.percentsCovered = 0;
         this.distanceCovered = 0;
         this.totalDistance = 0;
@@ -198,7 +198,6 @@ public class Train implements Runnable{
 
     @Override
     public void run() {
-        speed = speed / 3.6;
         while(true) {
             int currentStation = 0;
             while (currentStation < route.size() - 1) {
@@ -208,7 +207,7 @@ public class Train implements Runnable{
                     double distance = route.get(currentStation).getStationMap().get(route.get(currentStation + 1));
                     double finalDistance = route.get(currentStation).getStationMap().get(route.get(currentStation + 1));
                     System.out.println("Train with id -> " + id + " is on station -> " + currentStation);
-                    while (distance > 0) {
+                    while (distance >= 0) {
                         double recentDistance = distance;
                         distance -= speed;
                         int randomNumber = (int) Math.ceil(Math.random() * 2);
@@ -225,10 +224,10 @@ public class Train implements Runnable{
                         } else if (randomNumber == 2) {
                             speed = speed * 0.97;
                         }
-                        if (speed > 200 / 3.6) {
+                        if (speed > 200) {
                             throw new RailRoadHazardException(this);
                         }
-                        System.out.println("His speed right now is -> " + speed * 3.6);
+                        System.out.println("His speed right now is -> " + speed);
                     }
                     currentStation++;
                     if (route.get(currentStation).isAvailable()) {
@@ -242,13 +241,13 @@ public class Train implements Runnable{
                 } catch (RailRoadHazardException e) {
                     System.out.println(e.getMessage());
                 }catch (Exception e){
-                    System.out.println("error");
+                    System.out.println("Unknown error, please restart application");
                 }
             }
             System.out.println("Train with id -> " + id + " ,got to the last station");
             Collections.reverse(route);
             try {
-                Thread.sleep(30000);
+                Thread.sleep(5000);
                 System.out.println("Stations swapped");
             } catch (InterruptedException e) {
                 throw new RuntimeException(e);
@@ -265,7 +264,7 @@ public class Train implements Runnable{
 
     @Override
     public String toString() {
-        return " Id of train is -> " + id + "\n " +
+        return "\n Id of train is -> " + id + "\n " +
                 locomotive.toString() +
                 "\n,total weight of train is -> " + getWeightOfTrain() +
                 "\n, speed -> " + speed +

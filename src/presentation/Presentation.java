@@ -13,7 +13,6 @@ public class Presentation {
         trainSet.generateTrains();
         trainSet.loadAllTrains();
         trainSet.generateRoads(stationCollection);
-        trainSet.loadAllTrains();
         trainSet.sortAll();
         trainSet.sortTrains();
         Menu menu1 = new Menu(trainSet);
@@ -21,8 +20,8 @@ public class Presentation {
             Thread thread = new Thread(trainSet.getTrainById(i));
             thread.start();
         }
-        Thread menu = new Thread(menu1);
-        menu.start();
+        //Thread menu = new Thread(menu1);
+        //menu.start();
         Thread appState = new Thread(trainSet);
         appState.start();
     }
