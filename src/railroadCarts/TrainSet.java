@@ -23,7 +23,6 @@ public class TrainSet implements Runnable{
             }
         }
         return null;
-        //return trainSet.stream().filter(train -> train.getId() == id).findAny().orElse(null);
     }
 
     public List<Train> getTrainSet() {
