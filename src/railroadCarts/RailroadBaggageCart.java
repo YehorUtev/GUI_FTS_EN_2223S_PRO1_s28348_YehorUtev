@@ -35,7 +35,6 @@ public class RailroadBaggageCart extends RailroadCart{
             int extraAmountOfBaggage = (int)(Math.random()*50);
             for(int i = 0; i < extraAmountOfBaggage; i++){
                 int randomWeight = (int)Math.ceil(Math.random()*maxBaggageWeight);
-                this.baggageWeight += randomWeight;
                 int randomVolume = (int)Math.ceil(Math.random()*maxVolume);
                 baggageList.add(new Baggage(i, randomWeight, randomVolume));
             }
@@ -66,9 +65,9 @@ public class RailroadBaggageCart extends RailroadCart{
         try{
             for(int i = 0; i < amountOfBaggage; i++){
                 int randomWeight = (int)Math.ceil(Math.random()*maxBaggageWeight);
-                this.baggageWeight += randomWeight;
                 int randomVolume = (int)Math.ceil(Math.random()*maxVolume);
                 baggageList.add(new Baggage(i, randomWeight, randomVolume));
+                baggageWeight = baggageList.get(i).getWeight();
             }
             if(totalWeight > maxWeight){
                 throw new TooMuchWeightException(this);
@@ -81,7 +80,7 @@ public class RailroadBaggageCart extends RailroadCart{
     @Override
     public String getInfoAboutCargo() {
         return "Amount of baggage is " + amountOfBaggage +
-                "\n, baggage weight is " + baggageWeight;
+                "\n, baggage weight is " + totalWeight;
     }
 
     @Override
