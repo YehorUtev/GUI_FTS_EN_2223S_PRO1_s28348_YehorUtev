@@ -22,7 +22,7 @@ public class StationCollection {
     }
 
     public void generateConnections() {
-        for (int i = 0; i < 94; i++) {
+        for (int i = 0; i < 93; i++) {
             boolean check = true;
             Station station = stationList.get(i);
             while (check) {

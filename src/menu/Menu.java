@@ -24,9 +24,9 @@ public class Menu implements Runnable {
                 System.out.println("2.Select train");
                 System.out.println("3.Terminate program");
                 int action = -1;
-                try{
-                action = Integer.parseInt(reader.readLine());
-                } catch (NumberFormatException e){
+                try {
+                    action = Integer.parseInt(reader.readLine());
+                } catch (NumberFormatException e) {
                 }
                 if (action == 1) {
                     for (int i = 0; i < trainSet.size(); i++) {
@@ -35,11 +35,11 @@ public class Menu implements Runnable {
                 } else if (action == 2) {
                     System.out.println("Enter train id:");
                     int trainId = -1;
-                    try{
+                    try {
                         trainId = Integer.parseInt(reader.readLine());
-                    }catch (NumberFormatException e){
+                    } catch (NumberFormatException e) {
                     }
-                    if(trainId <= trainSet.size()) {
+                    if (trainId <= trainSet.size()) {
                         while (true) {
                             System.out.println("Train:");
                             System.out.println("1.Info");
@@ -263,12 +263,12 @@ public class Menu implements Runnable {
                                 System.out.println("No such action!");
                             }
                         }
-                    }else{
+                    } else {
                         System.out.println("No such train!");
                     }
                 } else if (action == 3) {
                     System.exit(0);
-                }else {
+                } else {
                     System.out.println("No such action!");
                 }
             }

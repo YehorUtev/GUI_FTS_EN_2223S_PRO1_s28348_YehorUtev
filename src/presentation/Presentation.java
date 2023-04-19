@@ -1,6 +1,5 @@
 package presentation;
 
-import enums.Liquid;
 import menu.Menu;
 import objects.StationCollection;
 import railroadCarts.*;
@@ -17,22 +16,23 @@ public class Presentation {
         trainSet.generateRoads(stationCollection);
         trainSet.sortAll();
         trainSet.sortTrains();
-        //Menu menu1 = new Menu(trainSet);
-        for(int i = 1; i <= 1; i++){
+        Menu menu1 = new Menu(trainSet);
+        for (int i = 1; i <= 1; i++) {
             Thread thread = new Thread(trainSet.getTrainById(i));
             thread.start();
         }
-        //Thread menu = new Thread(menu1);
-        //menu.start();
+        Thread menu = new Thread(menu1);
+        menu.start();
         Thread appState = new Thread(trainSet);
         appState.start();
         //more specific look at program
 
         //explosives
-        /*ExplosivesRailroadCart explosivesRailroadCart = new ExplosivesRailroadCart(1);*/
+        //ExplosivesRailroadCart explosivesRailroadCart = new ExplosivesRailroadCart(1);
         /*explosivesRailroadCart.load();
         explosivesRailroadCart.checkTemperature();
         explosivesRailroadCart.getInfoAboutCargo();
+        explosivesRailroadCart.getMethods();
         explosivesRailroadCart.decreaseTemperature();
         explosivesRailroadCart.toString();*/
 
