@@ -15,7 +15,7 @@ public class Presentation {
         trainSet.generateRoads(stationCollection);
         trainSet.sortAll();
         trainSet.sortTrains();
-        Menu menu1 = new Menu(trainSet);
+        //Menu menu1 = new Menu(trainSet);
         for(int i = 1; i <= 1; i++){
             Thread thread = new Thread(trainSet.getTrainById(i));
             thread.start();

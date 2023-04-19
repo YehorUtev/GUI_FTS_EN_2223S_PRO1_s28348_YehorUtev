@@ -39,7 +39,7 @@ public class Menu implements Runnable {
                         trainId = Integer.parseInt(reader.readLine());
                     }catch (NumberFormatException e){
                     }
-                    if(trainId == trainSet.size()) {
+                    if(trainId <= trainSet.size()) {
                         while (true) {
                             System.out.println("Train:");
                             System.out.println("1.Info");

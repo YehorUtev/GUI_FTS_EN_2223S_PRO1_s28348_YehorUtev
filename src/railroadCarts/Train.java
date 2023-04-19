@@ -206,7 +206,7 @@ public class Train implements Runnable{
                     route.get(currentStation).setAvailable(true);
                     double distance = route.get(currentStation).getStationMap().get(route.get(currentStation + 1));
                     double finalDistance = route.get(currentStation).getStationMap().get(route.get(currentStation + 1));
-                    System.out.println("Train with id -> " + id + " is on station -> " + currentStation);
+                    //System.out.println("Train with id -> " + id + " is on station -> " + currentStation);
                     while (distance >= 0) {
                         double recentDistance = distance;
                         distance -= speed;
@@ -227,7 +227,7 @@ public class Train implements Runnable{
                         if (speed > 200) {
                             throw new RailRoadHazardException(this);
                         }
-                        System.out.println("His speed right now is -> " + speed);
+                        //System.out.println("His speed right now is -> " + speed);
                     }
                     currentStation++;
                     if (route.get(currentStation).isAvailable()) {
@@ -244,11 +244,11 @@ public class Train implements Runnable{
                     System.out.println("Unknown error, please restart application");
                 }
             }
-            System.out.println("Train with id -> " + id + " ,got to the last station");
+            //System.out.println("Train with id -> " + id + " ,got to the last station");
             Collections.reverse(route);
             try {
                 Thread.sleep(5000);
-                System.out.println("Stations swapped");
+                //System.out.println("Stations swapped");
             } catch (InterruptedException e) {
                 throw new RuntimeException(e);
             }
