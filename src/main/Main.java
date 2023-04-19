@@ -13,7 +13,6 @@ public class Main {
         trainSet.generateTrains();
         trainSet.loadAllTrains();
         trainSet.generateRoads(stationCollection);
-        trainSet.loadAllTrains();
         trainSet.sortAll();
         trainSet.sortTrains();
         Menu menu1 = new Menu(trainSet);

@@ -40,7 +40,7 @@ public class TrainSet implements Runnable{
 
     public void generateTrains() {
         //change from 1 to 25
-        for (int i = 1; i <= 1; i++) {
+        for (int i = 1; i <= 25; i++) {
             trainSet.add(new Train(i));
         }
     }
