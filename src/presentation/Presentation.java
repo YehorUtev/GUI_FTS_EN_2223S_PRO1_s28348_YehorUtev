@@ -17,13 +17,13 @@ public class Presentation {
         trainSet.generateRoads(stationCollection);
         trainSet.sortAll();
         trainSet.sortTrains();
-        Menu menu1 = new Menu(trainSet);
+        //Menu menu1 = new Menu(trainSet);
         for(int i = 1; i <= 1; i++){
             Thread thread = new Thread(trainSet.getTrainById(i));
             thread.start();
         }
-        Thread menu = new Thread(menu1);
-        menu.start();
+        //Thread menu = new Thread(menu1);
+        //menu.start();
         Thread appState = new Thread(trainSet);
         appState.start();
         //more specific look at program
@@ -50,6 +50,7 @@ public class Presentation {
         //liquidMatRailroadCart.decreaseTemperature();
         //liquidMatRailroadCart.generateTypeOfLiquid();
         //liquidMatRailroadCart.toString();
+
         //toxic liquid
         /*LiquidToxicMatRailroadCart liquidToxicMatRailroadCart = new LiquidToxicMatRailroadCart(1);*/
         //liquidToxicMatRailroadCart.load();
@@ -57,17 +58,20 @@ public class Presentation {
         //liquidToxicMatRailroadCart.generateToxicLiquid();
         //liquidToxicMatRailroadCart.decreaseTemperature();
         //liquidToxicMatRailroadCart.toString();
+
         //passenger railroad cart
         /*PassengerRailroadCart passengerRailroadCart = new PassengerRailroadCart(1);*/
         //passengerRailroadCart.load();
         //passengerRailroadCart.getInfoAboutCargo();
         //passengerRailroadCart.toString();
+
         //PostOffice cart
         /*PostOfficeRailroadCart postOfficeRailroadCart = new PostOfficeRailroadCart(1);
         postOfficeRailroadCart.load();*/
         //postOfficeRailroadCart.generateMailCompany();
         //postOfficeRailroadCart.getWorkersInfo();
         //postOfficeRailroadCart.toString();
+
         //Baggage railroad cart
         /*RailroadBaggageCart railroadBaggageCart = new RailroadBaggageCart(1);
         railroadBaggageCart.load();*/
@@ -75,6 +79,7 @@ public class Presentation {
         //railroadBaggageCart.unloadBaggage();
         //railroadBaggageCart.loadExtraBaggage();
         //railroadBaggageCart.toString();
+
         //mailRailroadCart
         /*RailroadMailCart railroadMailCart = new RailroadMailCart(1);*/
         //railroadMailCart.load();
@@ -82,6 +87,7 @@ public class Presentation {
         //railroadMailCart.unloadMail();
         //railroadMailCart.loadBack();
         //railroadMailCart.toString();
+
         //Refrigerator
         /*RefrigiratorRailroadCart refrigiratorRailroadCart = new RefrigiratorRailroadCart(1);*/
         //refrigeratorRailroadCart.load();
@@ -89,6 +95,7 @@ public class Presentation {
         //refrigeratorRailroadCart.decreaseTemperature();
         //refrigeratorRailroadCart.increaseTemperature();
         //refrigeratorRailroadCart.toString();
+
         //Restaurant railroadCart
         /*RestaurantRailroadCart restaurantRailroadCart = new RestaurantRailroadCart(1);*/
         //restaurantRailroadCart.load();
@@ -96,16 +103,19 @@ public class Presentation {
         //restaurantRailroadCart.getGuestsInfo();
         //restaurantRailroadCart.getAmountOfFreeSeats();
         //restaurantRailroadCart.toString();
+
         //ToxicMaterials railroad cart
         /*ToxicMatRailroadCart toxicMatRailroadCart = new ToxicMatRailroadCart(1);*/
         //toxicMatRailroadCart.load();
         //toxicMatRailroadCart.getInfoAboutCargo();
         //toxicMatRailroadCart.neutralizeToxicWaste();
         //toxicMatRailroadCart.toString();
+
         //locomotive
         /*Locomotive locomotive = new Locomotive();*/
         //locomotive.generateSource();
         //locomotive.toString();
+
         //train
         /*Train train = new Train(1);*/
         //train.getRailroadCarts();
@@ -113,6 +123,7 @@ public class Presentation {
         //train.loadAll();
         //train.detachRailroadCart();
         //train.toString();
+
         //trainset
         /*TrainSet trainSet = new TrainSet();*/
         //trainSet.loadAllTrains();
@@ -120,6 +131,7 @@ public class Presentation {
         //trainSet.sortTrains();
         //trainSet.generateRoads();
         //trainSet.sortAll();
+
         //objects
         /*StationCollection stationCollection = new StationCollection();*/
         //stationCollection.generateRandomStation();
