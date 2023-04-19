@@ -1,0 +1,3500 @@
+
+ Id of train is -> 19
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 165332
+, speed -> 112.90799999999999
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 2
+, total distance is -> 5913
+, total percents covered -> 5.907458143074581
+, percents covered between two closest stations -> 45.9011826544021
+
+ Id of train is -> 1
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 142096
+, speed -> 127.308
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 5484
+, total percents covered -> 6.763457330415755
+, percents covered between two closest stations -> 87.47830188679245
+
+ Id of train is -> 13
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 93101
+, speed -> 119.892
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 5292
+, total percents covered -> 6.7326530612244895
+, percents covered between two closest stations -> 58.794059405940594
+
+ Id of train is -> 12
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 158505
+, speed -> 119.892
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 5144
+, total percents covered -> 6.926360808709176
+, percents covered between two closest stations -> 55.239069767441855
+
+ Id of train is -> 6
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 128835
+, speed -> 112.90799999999999
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 5123
+, total percents covered -> 6.8184267031036505
+, percents covered between two closest stations -> 66.78929254302102
+
+ Id of train is -> 5
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 137526
+, speed -> 119.892
+, amount of railroad carts is -> 10
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 5062
+, total percents covered -> 7.038561833267483
+, percents covered between two closest stations -> 61.113550600343046
+
+ Id of train is -> 24
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 107397
+, speed -> 119.89200000000001
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 3
+, total distance is -> 5015
+, total percents covered -> 7.248095712861416
+, percents covered between two closest stations -> 84.53302325581396
+
+ Id of train is -> 7
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 232864
+, speed -> 119.892
+, amount of railroad carts is -> 10
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4995
+, total percents covered -> 7.132972972972972
+, percents covered between two closest stations -> 61.64221453287197
+
+ Id of train is -> 25
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 166805
+, speed -> 127.308
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4962
+, total percents covered -> 7.474969770253931
+, percents covered between two closest stations -> 87.89289099526067
+
+ Id of train is -> 21
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 119492
+, speed -> 119.89200000000001
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4870
+, total percents covered -> 7.463901437371663
+, percents covered between two closest stations -> 58.627741935483876
+
+ Id of train is -> 9
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 83177
+, speed -> 119.892
+, amount of railroad carts is -> 6
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4868
+, total percents covered -> 7.319063270336893
+, percents covered between two closest stations -> 61.32392426850258
+
+ Id of train is -> 3
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 108707
+, speed -> 119.892
+, amount of railroad carts is -> 6
+, amount of railroad carts that need electricity -> 3
+, total distance is -> 4821
+, total percents covered -> 7.390416925948973
+, percents covered between two closest stations -> 60.184459459459454
+
+ Id of train is -> 23
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 165710
+, speed -> 112.90799999999999
+, amount of railroad carts is -> 6
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4781
+, total percents covered -> 7.306170257268353
+, percents covered between two closest stations -> 90.49430051813472
+
+ Id of train is -> 8
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 134543
+, speed -> 127.308
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4777
+, total percents covered -> 7.764454678668621
+, percents covered between two closest stations -> 52.611063829787234
+
+ Id of train is -> 4
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 123423
+, speed -> 127.308
+, amount of railroad carts is -> 6
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4738
+, total percents covered -> 7.82836639932461
+, percents covered between two closest stations -> 60.21233766233766
+
+ Id of train is -> 17
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 86574
+, speed -> 119.89200000000001
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4715
+, total percents covered -> 7.7092682926829275
+, percents covered between two closest stations -> 69.50133843212237
+
+ Id of train is -> 20
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 148265
+, speed -> 119.89200000000001
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4619
+, total percents covered -> 7.8694955618099165
+, percents covered between two closest stations -> 54.99122541603631
+
+ Id of train is -> 10
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 110667
+, speed -> 123.48876000000001
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4553
+, total percents covered -> 5.35031847133758
+, percents covered between two closest stations -> 72.28486646884274
+
+ Id of train is -> 22
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 172219
+, speed -> 119.892
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4530
+, total percents covered -> 7.865165562913907
+, percents covered between two closest stations -> 83.63661971830986
+
+ Id of train is -> 18
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 153789
+, speed -> 127.308
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 2
+, total distance is -> 4416
+, total percents covered -> 8.399184782608696
+, percents covered between two closest stations -> 52.835897435897444
+
+ Id of train is -> 11
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 189613
+, speed -> 119.89200000000001
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4319
+, total percents covered -> 8.416114841398473
+, percents covered between two closest stations -> 73.43272727272728
+
+ Id of train is -> 14
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 106220
+, speed -> 127.308
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 2
+, total distance is -> 4267
+, total percents covered -> 8.692477150222638
+, percents covered between two closest stations -> 49.4544
+
+ Id of train is -> 16
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 132351
+, speed -> 119.892
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4248
+, total percents covered -> 8.38728813559322
+, percents covered between two closest stations -> 47.76032171581769
+
+ Id of train is -> 2
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 113016
+, speed -> 119.892
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4241
+, total percents covered -> 8.401131808535723
+, percents covered between two closest stations -> 95.7774193548387
+
+ Id of train is -> 15
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 223410
+, speed -> 131.12724
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4183
+, total percents covered -> 5.8235715993306245
+, percents covered between two closest stations -> 69.79942693409743
+
+ Id of train is -> 19
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 165332
+, speed -> 123.2665802578956
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 2
+, total distance is -> 5913
+, total percents covered -> 11.86500780456621
+, percents covered between two closest stations -> 92.19157838160315
+
+ Id of train is -> 1
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 142096
+, speed -> 119.67629151252
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 5484
+, total percents covered -> 14.216830105698762
+, percents covered between two closest stations -> 54.5476937111227
+
+ Id of train is -> 13
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 93101
+, speed -> 106.13952557651999
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 5292
+, total percents covered -> 13.456907134854875
+, percents covered between two closest stations -> 23.27621174923684
+
+ Id of train is -> 12
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 158505
+, speed -> 134.93950224852003
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 5144
+, total percents covered -> 15.162120961285384
+, percents covered between two closest stations -> 20.920853061786055
+
+ Id of train is -> 6
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 128835
+, speed -> 112.70485705547999
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 5123
+, total percents covered -> 14.676857921910601
+, percents covered between two closest stations -> 36.97826031332471
+
+ Id of train is -> 5
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 137526
+, speed -> 119.67629151252
+, amount of railroad carts is -> 10
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 5062
+, total percents covered -> 16.176745669627028
+, percents covered between two closest stations -> 31.617542331973194
+
+ Id of train is -> 24
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 107397
+, speed -> 119.67629151252001
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 3
+, total distance is -> 5015
+, total percents covered -> 15.526884318973483
+, percents covered between two closest stations -> 98.77429138711615
+
+ Id of train is -> 7
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 232864
+, speed -> 116.190574284
+, amount of railroad carts is -> 10
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4995
+, total percents covered -> 9.461206006006005
+, percents covered between two closest stations -> 81.76249826989618
+
+ Id of train is -> 25
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 166805
+, speed -> 143.28627558348
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4962
+, total percents covered -> 16.917779558635228
+, percents covered between two closest stations -> 78.17607147930337
+
+ Id of train is -> 21
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 119492
+, speed -> 119.67629151252001
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4870
+, total percents covered -> 15.188424877053798
+, percents covered between two closest stations -> 33.71163141197747
+
+ Id of train is -> 9
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 83177
+, speed -> 119.67629151252
+, amount of railroad carts is -> 6
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4868
+, total percents covered -> 16.92797682063517
+, percents covered between two closest stations -> 31.08106286809719
+
+ Id of train is -> 3
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 108707
+, speed -> 112.70485705547999
+, amount of railroad carts is -> 6
+, amount of railroad carts that need electricity -> 3
+, total distance is -> 4821
+, total percents covered -> 14.617400063378552
+, percents covered between two closest stations -> 19.232910760320813
+
+ Id of train is -> 23
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 165710
+, speed -> 112.70485705547999
+, amount of railroad carts is -> 6
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4781
+, total percents covered -> 14.941689721218992
+, percents covered between two closest stations -> 90.9590541749252
+
+ Id of train is -> 8
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 134543
+, speed -> 119.67629151251998
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4777
+, total percents covered -> 17.26347689998995
+, percents covered between two closest stations -> 15.851164438744377
+
+ Id of train is -> 4
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 123423
+, speed -> 134.93950224852
+, amount of railroad carts is -> 6
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4738
+, total percents covered -> 18.614367406764877
+, percents covered between two closest stations -> 62.28307441042624
+
+ Id of train is -> 17
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 86574
+, speed -> 119.67629151252001
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4715
+, total percents covered -> 16.094737344570945
+, percents covered between two closest stations -> 74.87837009413334
+
+ Id of train is -> 20
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 148265
+, speed -> 134.93950224852003
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4619
+, total percents covered -> 17.231857593602946
+, percents covered between two closest stations -> 40.041395325970335
+
+ Id of train is -> 10
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 110667
+, speed -> 116.08600276714441
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4553
+, total percents covered -> 15.617390795431586
+, percents covered between two closest stations -> 91.68132424411765
+
+ Id of train is -> 22
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 172219
+, speed -> 112.70485705547999
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4530
+, total percents covered -> 17.101093345242386
+, percents covered between two closest stations -> 95.7910792690879
+
+ Id of train is -> 18
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 153789
+, speed -> 127.07894871948
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 2
+, total distance is -> 4416
+, total percents covered -> 18.774432715567936
+, percents covered between two closest stations -> 28.177150492124163
+
+ Id of train is -> 11
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 189613
+, speed -> 127.07894871948002
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4319
+, total percents covered -> 17.25993444861033
+, percents covered between two closest stations -> 69.95993542890504
+
+ Id of train is -> 14
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 106220
+, speed -> 116.08600276714438
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 2
+, total distance is -> 4267
+, total percents covered -> 17.285176407686897
+, percents covered between two closest stations -> 98.3411303088
+
+ Id of train is -> 16
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 132351
+, speed -> 116.08600276714441
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4248
+, total percents covered -> 16.35630447542373
+, percents covered between two closest stations -> 93.13884907721179
+
+ Id of train is -> 2
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 113016
+, speed -> 119.67629151252
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4241
+, total percents covered -> 17.50170559840887
+, percents covered between two closest stations -> 90.7468956932647
+
+ Id of train is -> 15
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 223410
+, speed -> 127.07894871947998
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4183
+, total percents covered -> 20.876798264486734
+, percents covered between two closest stations -> 73.63433587127527
+
+ Id of train is -> 19
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 165332
+, speed -> 115.98152536465396
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 2
+, total distance is -> 5913
+, total percents covered -> 18.9382156007561
+, percents covered between two closest stations -> 52.153588440800625
+
+ Id of train is -> 1
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 142096
+, speed -> 112.50207960371434
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 5484
+, total percents covered -> 21.672175047478376
+, percents covered between two closest stations -> 16.691703205298868
+
+ Id of train is -> 13
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 93101
+, speed -> 109.1270172156029
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 5292
+, total percents covered -> 19.233261999321392
+, percents covered between two closest stations -> 90.31233004475617
+
+ Id of train is -> 12
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 158505
+, speed -> 138.7376220588336
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 5144
+, total percents covered -> 23.346561156635726
+, percents covered between two closest stations -> 86.19334975152586
+
+ Id of train is -> 6
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 128835
+, speed -> 123.0448002593614
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 5123
+, total percents covered -> 21.272771632482524
+, percents covered between two closest stations -> 91.56770448014208
+
+ Id of train is -> 5
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 137526
+, speed -> 119.35345625158054
+, amount of railroad carts is -> 10
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 5062
+, total percents covered -> 25.07474695486201
+, percents covered between two closest stations -> 91.99513282240147
+
+ Id of train is -> 24
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 107397
+, speed -> 119.4609711255936
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 3
+, total distance is -> 5015
+, total percents covered -> 22.835198291354256
+, percents covered between two closest stations -> 54.87654459263876
+
+ Id of train is -> 7
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 232864
+, speed -> 130.77351499560146
+, amount of railroad carts is -> 10
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4995
+, total percents covered -> 18.761430351439753
+, percents covered between two closest stations -> 98.66303463033394
+
+ Id of train is -> 25
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 166805
+, speed -> 126.85030954573338
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4962
+, total percents covered -> 27.175370440101393
+, percents covered between two closest stations -> 56.79332579418685
+
+ Id of train is -> 21
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 119492
+, speed -> 119.4609711255936
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4870
+, total percents covered -> 22.47353123461178
+, percents covered between two closest stations -> 20.247622224676874
+
+ Id of train is -> 9
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 83177
+, speed -> 105.8532066991348
+, amount of railroad carts is -> 6
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4868
+, total percents covered -> 26.0459576312017
+, percents covered between two closest stations -> 87.84107640497425
+
+ Id of train is -> 3
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 108707
+, speed -> 130.6558188321054
+, amount of railroad carts is -> 6
+, amount of railroad carts that need electricity -> 3
+, total distance is -> 4821
+, total percents covered -> 22.06005150401258
+, percents covered between two closest stations -> 80.46332474546871
+
+ Id of train is -> 23
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 165710
+, speed -> 105.94856040349795
+, amount of railroad carts is -> 6
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4781
+, total percents covered -> 22.480177851730478
+, percents covered between two closest stations -> 43.761989731806956
+
+ Id of train is -> 8
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 134543
+, speed -> 123.0448002593614
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4777
+, total percents covered -> 29.70102938830714
+, percents covered between two closest stations -> 94.54545349396452
+
+ Id of train is -> 4
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 123423
+, speed -> 151.87559859772406
+, amount of railroad carts is -> 6
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4738
+, total percents covered -> 28.33110249200596
+, percents covered between two closest stations -> 44.34483497351743
+
+ Id of train is -> 17
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 86574
+, speed -> 112.50207960371434
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4715
+, total percents covered -> 25.154871427752425
+, percents covered between two closest stations -> 52.73517997250409
+
+ Id of train is -> 20
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 148265
+, speed -> 126.85030954573341
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4619
+, total percents covered -> 27.183888818820847
+, percents covered between two closest stations -> 35.73145971447085
+
+ Id of train is -> 10
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 110667
+, speed -> 119.4609711255936
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4553
+, total percents covered -> 26.70979754244566
+, percents covered between two closest stations -> 63.92090666316836
+
+ Id of train is -> 22
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 172219
+, speed -> 106.04400000350113
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4530
+, total percents covered -> 19.780220750629166
+, percents covered between two closest stations -> 15.946466165940011
+
+ Id of train is -> 18
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 153789
+, speed -> 134.69672044546948
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 2
+, total distance is -> 4416
+, total percents covered -> 29.15979892313111
+, percents covered between two closest stations -> 27.377382204363723
+
+ Id of train is -> 11
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 189613
+, speed -> 130.65581883210544
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4319
+, total percents covered -> 25.717483043788704
+, percents covered between two closest stations -> 75.36201539802163
+
+ Id of train is -> 14
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 106220
+, speed -> 123.04480025936138
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 2
+, total distance is -> 4267
+, total percents covered -> 25.654346163954262
+, percents covered between two closest stations -> 92.65348140213126
+
+ Id of train is -> 16
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 132351
+, speed -> 112.50207960371435
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4248
+, total percents covered -> 27.69543501891983
+, percents covered between two closest stations -> 33.98854368692276
+
+ Id of train is -> 2
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 113016
+, speed -> 119.46097112559359
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4241
+, total percents covered -> 26.762817244527383
+, percents covered between two closest stations -> 85.95909911389984
+
+ Id of train is -> 15
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 223410
+, speed -> 119.46097112559357
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4183
+, total percents covered -> 31.164633312485236
+, percents covered between two closest stations -> 72.85784127965677
+
+ Id of train is -> 19
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 165332
+, speed -> 115.77285256403313
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 2
+, total distance is -> 5913
+, total percents covered -> 26.463264883545293
+, percents covered between two closest stations -> 22.925317339412505
+
+ Id of train is -> 1
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 142096
+, speed -> 108.93067697749876
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 5484
+, total percents covered -> 31.856913221736544
+, percents covered between two closest stations -> 99.55981024926295
+
+ Id of train is -> 13
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 93101
+, speed -> 102.58520064871243
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 5292
+, total percents covered -> 29.89116245738523
+, percents covered between two closest stations -> 69.40458174163243
+
+ Id of train is -> 12
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 158505
+, speed -> 156.15041590566761
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 5144
+, total percents covered -> 33.41415466605071
+, percents covered between two closest stations -> 86.109260245311
+
+ Id of train is -> 6
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 128835
+, speed -> 115.6686569967255
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 5123
+, total percents covered -> 34.15244387279546
+, percents covered between two closest stations -> 81.67065854883215
+
+ Id of train is -> 5
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 137526
+, speed -> 115.6686569967255
+, amount of railroad carts is -> 10
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 5062
+, total percents covered -> 35.68159247981802
+, percents covered between two closest stations -> 97.18985974101591
+
+ Id of train is -> 24
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 107397
+, speed -> 119.24603814095414
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 3
+, total distance is -> 5015
+, total percents covered -> 31.151466363727902
+, percents covered between two closest stations -> 15.773285468380182
+
+ Id of train is -> 7
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 232864
+, speed -> 119.24603814095413
+, amount of railroad carts is -> 10
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4995
+, total percents covered -> 29.32657054134772
+, percents covered between two closest stations -> 84.33261266779331
+
+ Id of train is -> 25
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 166805
+, speed -> 112.29966698711212
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4962
+, total percents covered -> 35.455454796193315
+, percents covered between two closest stations -> 14.85445330517356
+
+ Id of train is -> 21
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 119492
+, speed -> 105.66275666817381
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4870
+, total percents covered -> 32.13412211884356
+, percents covered between two closest stations -> 99.98843172672555
+
+ Id of train is -> 9
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 83177
+, speed -> 102.58520064871242
+, amount of railroad carts is -> 6
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4868
+, total percents covered -> 36.562735346325255
+, percents covered between two closest stations -> 78.35976628930706
+
+ Id of train is -> 3
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 108707
+, speed -> 126.50812186373824
+, amount of railroad carts is -> 6
+, amount of railroad carts that need electricity -> 3
+, total distance is -> 4821
+, total percents covered -> 35.43297897277207
+, percents covered between two closest stations -> 83.63153253585831
+
+ Id of train is -> 23
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 165710
+, speed -> 99.50764462925105
+, amount of railroad carts is -> 6
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4781
+, total percents covered -> 31.20753858371362
+, percents covered between two closest stations -> 99.47028300231621
+
+ Id of train is -> 8
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 134543
+, speed -> 122.93405993912798
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4777
+, total percents covered -> 33.13657232445318
+, percents covered between two closest stations -> 20.557535106877584
+
+ Id of train is -> 4
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 123423
+, speed -> 151.60234553948303
+, amount of railroad carts is -> 6
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4738
+, total percents covered -> 34.643011339595205
+, percents covered between two closest stations -> 88.64975959555868
+
+ Id of train is -> 17
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 86574
+, speed -> 105.7579388131056
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4715
+, total percents covered -> 34.01395416358653
+, percents covered between two closest stations -> 13.33643616810916
+
+ Id of train is -> 20
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 148265
+, speed -> 122.82341928518278
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4619
+, total percents covered -> 35.09322669390355
+, percents covered between two closest stations -> 86.40168391004228
+
+ Id of train is -> 10
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 110667
+, speed -> 112.29966698711215
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4553
+, total percents covered -> 35.01646534124999
+, percents covered between two closest stations -> 21.933528708420337
+
+ Id of train is -> 22
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 172219
+, speed -> 109.02880290010886
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4530
+, total percents covered -> 31.82725227943462
+, percents covered between two closest stations -> 98.01120725690043
+
+ Id of train is -> 18
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 153789
+, speed -> 151.60234553948308
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 2
+, total distance is -> 4416
+, total percents covered -> 40.68392992616584
+, percents covered between two closest stations -> 22.00324318425008
+
+ Id of train is -> 11
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 189613
+, speed -> 130.4207441894209
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4319
+, total percents covered -> 36.65038647127586
+, percents covered between two closest stations -> 83.96757395982776
+
+ Id of train is -> 14
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 106220
+, speed -> 122.82341928518275
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 2
+, total distance is -> 4267
+, total percents covered -> 34.856627992736584
+, percents covered between two closest stations -> 89.54223442403675
+
+ Id of train is -> 16
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 132351
+, speed -> 112.29966698711215
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4248
+, total percents covered -> 38.049163603748134
+, percents covered between two closest stations -> 38.69378844182185
+
+ Id of train is -> 2
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 113016
+, speed -> 126.62208173730183
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4241
+, total percents covered -> 36.82880447837799
+, percents covered between two closest stations -> 48.54073656947506
+
+ Id of train is -> 15
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 223410
+, speed -> 119.24603814095413
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4183
+, total percents covered -> 41.96828960869384
+, percents covered between two closest stations -> 57.75296395074483
+
+ Id of train is -> 19
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 165332
+, speed -> 105.56766018717244
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 2
+, total distance is -> 5913
+, total percents covered -> 32.10217814671855
+, percents covered between two closest stations -> 88.95085026048866
+
+ Id of train is -> 1
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 142096
+, speed -> 108.73468999278762
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 5484
+, total percents covered -> 37.92240969931204
+, percents covered between two closest stations -> 68.6801974813067
+
+ Id of train is -> 13
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 93101
+, speed -> 102.40063038155728
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 5292
+, total percents covered -> 36.15647449700599
+, percents covered between two closest stations -> 21.46763739655289
+
+ Id of train is -> 12
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 158505
+, speed -> 155.86947163887427
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 5144
+, total percents covered -> 43.77189346550384
+, percents covered between two closest stations -> 80.77111495914941
+
+ Id of train is -> 6
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 128835
+, speed -> 122.60243661743904
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 5123
+, total percents covered -> 41.674735529406604
+, percents covered between two closest stations -> 37.784021422078894
+
+ Id of train is -> 5
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 137526
+, speed -> 115.46054710574357
+, amount of railroad carts is -> 10
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 5062
+, total percents covered -> 42.73257054248198
+, percents covered between two closest stations -> 94.52416552629137
+
+ Id of train is -> 24
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 107397
+, speed -> 108.73468999278762
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 3
+, total distance is -> 5015
+, total percents covered -> 42.13854998948519
+, percents covered between two closest stations -> 88.65718015511675
+
+ Id of train is -> 7
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 232864
+, speed -> 119.03149186159129
+, amount of railroad carts is -> 10
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4995
+, total percents covered -> 38.50266614880409
+, percents covered between two closest stations -> 85.59435405989673
+
+ Id of train is -> 25
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 166805
+, speed -> 115.46054710574354
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4962
+, total percents covered -> 47.242314285836926
+, percents covered between two closest stations -> 92.21741201894552
+
+ Id of train is -> 21
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 119492
+, speed -> 115.46054710574357
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4870
+, total percents covered -> 41.2125988026982
+, percents covered between two closest stations -> 96.9415705463601
+
+ Id of train is -> 9
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 83177
+, speed -> 102.40063038155726
+, amount of railroad carts is -> 6
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4868
+, total percents covered -> 43.199841630417616
+, percents covered between two closest stations -> 39.84066869132754
+
+ Id of train is -> 3
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 108707
+, speed -> 122.60243661743905
+, amount of railroad carts is -> 6
+, amount of railroad carts that need electricity -> 3
+, total distance is -> 4821
+, total percents covered -> 47.919885941569476
+, percents covered between two closest stations -> 81.94370086234609
+
+ Id of train is -> 23
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 165710
+, speed -> 102.40063038155726
+, amount of railroad carts is -> 6
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4781
+, total percents covered -> 39.73685916603265
+, percents covered between two closest stations -> 59.12433919883186
+
+ Id of train is -> 8
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 134543
+, speed -> 142.51426853587333
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4777
+, total percents covered -> 41.32950078251946
+, percents covered between two closest stations -> 86.00505892658096
+
+ Id of train is -> 4
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 123423
+, speed -> 146.92192632564257
+, amount of railroad carts is -> 6
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4738
+, total percents covered -> 42.75544030065746
+, percents covered between two closest stations -> 74.15729191449411
+
+ Id of train is -> 17
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 86574
+, speed -> 102.40063038155728
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4715
+, total percents covered -> 44.62761224840051
+, percents covered between two closest stations -> 76.4428647556223
+
+ Id of train is -> 20
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 148265
+, speed -> 108.73468999278765
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4619
+, total percents covered -> 44.956195955774824
+, percents covered between two closest stations -> 98.49220143174617
+
+ Id of train is -> 10
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 110667
+, speed -> 102.40063038155728
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4553
+, total percents covered -> 42.41158709947025
+, percents covered between two closest stations -> 87.69522668728133
+
+ Id of train is -> 22
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 172219
+, speed -> 102.49287396812856
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4530
+, total percents covered -> 39.11890303783227
+, percents covered between two closest stations -> 79.87060645183907
+
+ Id of train is -> 18
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 153789
+, speed -> 155.86947163887427
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 2
+, total distance is -> 4416
+, total percents covered -> 50.97673017827518
+, percents covered between two closest stations -> 87.97277281170271
+
+ Id of train is -> 11
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 189613
+, speed -> 119.03149186159133
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4319
+, total percents covered -> 49.911396992882075
+, percents covered between two closest stations -> 82.28931289151431
+
+ Id of train is -> 14
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 106220
+, speed -> 111.99673069257123
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 2
+, total distance is -> 4267
+, total percents covered -> 47.19255931711337
+, percents covered between two closest stations -> 85.3097894287879
+
+ Id of train is -> 16
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 132351
+, speed -> 102.40063038155728
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4248
+, total percents covered -> 45.816628613930376
+, percents covered between two closest stations -> 96.37943767828015
+
+ Id of train is -> 2
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 113016
+, speed -> 134.21246648523993
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4241
+, total percents covered -> 49.21510177989248
+, percents covered between two closest stations -> 44.588859297421905
+
+ Id of train is -> 15
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 223410
+, speed -> 134.2124664852399
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4183
+, total percents covered -> 51.49922224444754
+, percents covered between two closest stations -> 33.38618569284576
+
+ Id of train is -> 19
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 165332
+, speed -> 99.23921571978744
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 2
+, total distance is -> 5913
+, total percents covered -> 41.55056436469871
+, percents covered between two closest stations -> 80.71988296703611
+
+ Id of train is -> 1
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 142096
+, speed -> 115.25281164399637
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 5484
+, total percents covered -> 44.80577580742058
+, percents covered between two closest stations -> 33.25750296909873
+
+ Id of train is -> 13
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 93101
+, speed -> 111.79522729467648
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 5292
+, total percents covered -> 42.31681863343354
+, percents covered between two closest stations -> 89.81258743842838
+
+ Id of train is -> 12
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 158505
+, speed -> 165.21309673146618
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 5144
+, total percents covered -> 55.096116184706716
+, percents covered between two closest stations -> 79.75409063197873
+
+ Id of train is -> 6
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 128835
+, speed -> 126.05330708568636
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 5123
+, total percents covered -> 48.70643159685044
+, percents covered between two closest stations -> 92.44772241375539
+
+ Id of train is -> 5
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 137526
+, speed -> 108.53905562589951
+, amount of railroad carts is -> 10
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 5062
+, total percents covered -> 49.7588230318885
+, percents covered between two closest stations -> 62.06869165881624
+
+ Id of train is -> 24
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 107397
+, speed -> 115.25281164399638
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 3
+, total distance is -> 5015
+, total percents covered -> 50.54407924328491
+, percents covered between two closest stations -> 58.49922892870007
+
+ Id of train is -> 7
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 232864
+, speed -> 122.49209442448334
+, amount of railroad carts is -> 10
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4995
+, total percents covered -> 49.39039812657518
+, percents covered between two closest stations -> 98.1809728500873
+
+ Id of train is -> 25
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 166805
+, speed -> 115.25281164399635
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4962
+, total percents covered -> 55.61391047279783
+, percents covered between two closest stations -> 62.77504184158952
+
+ Id of train is -> 21
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 119492
+, speed -> 115.25281164399638
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4870
+, total percents covered -> 48.39395429262297
+, percents covered between two closest stations -> 47.69681449584353
+
+ Id of train is -> 9
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 83177
+, speed -> 93.37417807074802
+, amount of railroad carts is -> 6
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4868
+, total percents covered -> 49.38053795342731
+, percents covered between two closest stations -> 97.4798060484371
+
+ Id of train is -> 3
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 108707
+, speed -> 115.2528116439964
+, amount of railroad carts is -> 6
+, amount of railroad carts that need electricity -> 3
+, total distance is -> 4821
+, total percents covered -> 57.301501304548694
+, percents covered between two closest stations -> 88.7319631845318
+
+ Id of train is -> 23
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 165710
+, speed -> 108.5390556258995
+, amount of railroad carts is -> 6
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4781
+, total percents covered -> 47.846455880064816
+, percents covered between two closest stations -> 14.491195677690179
+
+ Id of train is -> 8
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 134543
+, speed -> 138.1144255233653
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4777
+, total percents covered -> 54.51359484034678
+, percents covered between two closest stations -> 46.038141841121764
+
+ Id of train is -> 4
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 123423
+, speed -> 155.72918911439922
+, amount of railroad carts is -> 6
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4738
+, total percents covered -> 61.081544083664745
+, percents covered between two closest stations -> 97.4447578340635
+
+ Id of train is -> 17
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 86574
+, speed -> 115.25281164399638
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4715
+, total percents covered -> 53.407184417368896
+, percents covered between two closest stations -> 47.32265526644674
+
+ Id of train is -> 20
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 148265
+, speed -> 111.7952272946765
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4619
+, total percents covered -> 54.62793208686083
+, percents covered between two closest stations -> 86.01640995947388
+
+ Id of train is -> 10
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 110667
+, speed -> 96.26203924819384
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4553
+, total percents covered -> 50.60798922663684
+, percents covered between two closest stations -> 86.88564411450285
+
+ Id of train is -> 22
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 172219
+, speed -> 108.7346899927876
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4530
+, total percents covered -> 43.28332648990702
+, percents covered between two closest stations -> 20.098833640071643
+
+ Id of train is -> 18
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 153789
+, speed -> 146.52559403773827
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 2
+, total distance is -> 4416
+, total percents covered -> 63.12772746815215
+, percents covered between two closest stations -> 95.31942121714268
+
+ Id of train is -> 11
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 189613
+, speed -> 126.1668572572179
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4319
+, total percents covered -> 60.90723119241994
+, percents covered between two closest stations -> 55.69444169706322
+
+ Id of train is -> 14
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 106220
+, speed -> 115.35663261334837
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 2
+, total distance is -> 4267
+, total percents covered -> 54.472776266836654
+, percents covered between two closest stations -> 55.72386355537246
+
+ Id of train is -> 16
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 132351
+, speed -> 96.26203924819384
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4248
+, total percents covered -> 53.32104507951211
+, percents covered between two closest stations -> 94.92929776359078
+
+ Id of train is -> 2
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 113016
+, speed -> 126.16685725721788
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4241
+, total percents covered -> 59.18971427174391
+, percents covered between two closest stations -> 54.986219370098496
+
+ Id of train is -> 15
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 223410
+, speed -> 133.97099275766433
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4183
+, total percents covered -> 61.103777020264516
+, percents covered between two closest stations -> 30.86889234047566
+
+ Id of train is -> 19
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 165332
+, speed -> 99.06066551525656
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 2
+, total distance is -> 5913
+, total percents covered -> 46.88374884032009
+, percents covered between two closest stations -> 28.54328493101272
+
+ Id of train is -> 1
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 142096
+, speed -> 108.24626384648977
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 5484
+, total percents covered -> 52.71548587989472
+, percents covered between two closest stations -> 96.76680024208287
+
+ Id of train is -> 13
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 93101
+, speed -> 118.49681343594905
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 5292
+, total percents covered -> 49.507392467131965
+, percents covered between two closest stations -> 92.71821490520222
+
+ Id of train is -> 12
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 158505
+, speed -> 164.9158469799579
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 5144
+, total percents covered -> 66.96217351293537
+, percents covered between two closest stations -> 77.61617175718294
+
+ Id of train is -> 6
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 128835
+, speed -> 133.60959652906618
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 5123
+, total percents covered -> 62.12360971071181
+, percents covered between two closest stations -> 85.69792009136638
+
+ Id of train is -> 5
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 137526
+, speed -> 115.04544993781462
+, amount of railroad carts is -> 10
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 5062
+, total percents covered -> 58.29198067024745
+, percents covered between two closest stations -> 35.59498611113437
+
+ Id of train is -> 24
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 107397
+, speed -> 108.34377324240793
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 3
+, total distance is -> 5015
+, total percents covered -> 57.454511929060985
+, percents covered between two closest stations -> 18.30131304770404
+
+ Id of train is -> 7
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 232864
+, speed -> 129.83490629825695
+, amount of railroad carts is -> 10
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4995
+, total percents covered -> 57.29409562280036
+, percents covered between two closest stations -> 48.350886761764116
+
+ Id of train is -> 25
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 166805
+, speed -> 108.34377324240792
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4962
+, total percents covered -> 64.30952004902296
+, percents covered between two closest stations -> 35.26256167187806
+
+ Id of train is -> 21
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 119492
+, speed -> 125.82651323611087
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4870
+, total percents covered -> 55.489393061516516
+, percents covered between two closest stations -> 96.78031847952474
+
+ Id of train is -> 9
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 83177
+, speed -> 93.20618018330491
+, amount of railroad carts is -> 6
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4868
+, total percents covered -> 59.00781660231336
+, percents covered between two closest stations -> 72.88008195209842
+
+ Id of train is -> 3
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 108707
+, speed -> 102.03248548071427
+, amount of railroad carts is -> 6
+, amount of railroad carts that need electricity -> 3
+, total distance is -> 4821
+, total percents covered -> 64.7513375921616
+, percents covered between two closest stations -> 42.9472088868179
+
+ Id of train is -> 23
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 165710
+, speed -> 118.49681343594905
+, amount of railroad carts is -> 6
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4781
+, total percents covered -> 59.673970473965426
+, percents covered between two closest stations -> 89.9883215434295
+
+ Id of train is -> 8
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 134543
+, speed -> 155.44900271463652
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4777
+, total percents covered -> 64.31589626488397
+, percents covered between two closest stations -> 65.04678653365326
+
+ Id of train is -> 4
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 123423
+, speed -> 146.39372100310425
+, amount of railroad carts is -> 6
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4738
+, total percents covered -> 70.87042374207921
+, percents covered between two closest stations -> 71.35702200960013
+
+ Id of train is -> 17
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 86574
+, speed -> 115.04544993781462
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4715
+, total percents covered -> 61.20987168478926
+, percents covered between two closest stations -> 22.6022494966237
+
+ Id of train is -> 20
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 148265
+, speed -> 108.34377324240795
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4619
+, total percents covered -> 65.57195281174458
+, percents covered between two closest stations -> 65.52394265475554
+
+ Id of train is -> 10
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 110667
+, speed -> 102.03248548071427
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4553
+, total percents covered -> 62.58795273683754
+, percents covered between two closest stations -> 76.7122289397251
+
+ Id of train is -> 22
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 172219
+, speed -> 108.44137047583617
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4530
+, total percents covered -> 52.59233087493478
+, percents covered between two closest stations -> 98.04668921156102
+
+ Id of train is -> 18
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 153789
+, speed -> 160.11247279607565
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 2
+, total distance is -> 4416
+, total percents covered -> 74.25526432962127
+, percents covered between two closest stations -> 38.58131874604232
+
+ Id of train is -> 11
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 189613
+, speed -> 125.9398591093093
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4319
+, total percents covered -> 70.59365267676105
+, percents covered between two closest stations -> 29.914455845441633
+
+ Id of train is -> 14
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 106220
+, speed -> 115.14908411351675
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 2
+, total distance is -> 4267
+, total percents covered -> 64.18700445528084
+, percents covered between two closest stations -> 56.624571454438986
+
+ Id of train is -> 16
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 132351
+, speed -> 102.03248548071429
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4248
+, total percents covered -> 65.57808267312893
+, percents covered between two closest stations -> 83.01923551883515
+
+ Id of train is -> 2
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 113016
+, speed -> 125.93985910930927
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4241
+, total percents covered -> 70.16681833076082
+, percents covered between two closest stations -> 55.48259553309464
+
+ Id of train is -> 15
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 223410
+, speed -> 125.93985910930924
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4183
+, total percents covered -> 71.28711114294309
+, percents covered between two closest stations -> 19.49533422744726
+
+ Id of train is -> 19
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 165332
+, speed -> 98.79344236356734
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 2
+, total distance is -> 5913
+, total percents covered -> 53.57888581421391
+, percents covered between two closest stations -> 86.42098219217375
+
+ Id of train is -> 1
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 142096
+, speed -> 111.49365176188446
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 5484
+, total percents covered -> 57.12508963545541
+, percents covered between two closest stations -> 32.60236136622763
+
+ Id of train is -> 13
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 93101
+, speed -> 133.36920747908707
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 5292
+, total percents covered -> 61.88805131488446
+, percents covered between two closest stations -> 87.74277204793395
+
+ Id of train is -> 12
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 158505
+, speed -> 159.82440003614565
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 5144
+, total percents covered -> 82.05335147815211
+, percents covered between two closest stations -> 23.961679165838934
+
+ Id of train is -> 6
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 128835
+, speed -> 121.83212360880871
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 5123
+, total percents covered -> 69.18207957895027
+, percents covered between two closest stations -> 78.04218251670417
+
+ Id of train is -> 5
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 137526
+, speed -> 111.39330747529877
+, amount of railroad carts is -> 10
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 5062
+, total percents covered -> 64.70919177687063
+, percents covered between two closest stations -> 86.5901550620394
+
+ Id of train is -> 24
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 107397
+, speed -> 114.73510669955773
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 3
+, total distance is -> 5015
+, total percents covered -> 66.351391080476
+, percents covered between two closest stations -> 93.66930112937011
+
+ Id of train is -> 7
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 232864
+, speed -> 141.74642095768633
+, amount of railroad carts is -> 10
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4995
+, total percents covered -> 65.24319682197672
+, percents covered between two closest stations -> 98.10747885435302
+
+ Id of train is -> 25
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 166805
+, speed -> 111.39330747529874
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4962
+, total percents covered -> 71.26087357132057
+, percents covered between two closest stations -> 90.53919016168695
+
+ Id of train is -> 21
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 119492
+, speed -> 129.48466745542433
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4870
+, total percents covered -> 65.0407529251627
+, percents covered between two closest stations -> 18.340604455442538
+
+ Id of train is -> 9
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 83177
+, speed -> 87.61876700903056
+, amount of railroad carts is -> 6
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4868
+, total percents covered -> 66.14518062431257
+, percents covered between two closest stations -> 32.354071416642974
+
+ Id of train is -> 3
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 108707
+, speed -> 101.75724563447437
+, amount of railroad carts is -> 6
+, amount of railroad carts that need electricity -> 3
+, total distance is -> 4821
+, total percents covered -> 72.95928662171413
+, percents covered between two closest stations -> 96.78465415412774
+
+ Id of train is -> 23
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 165710
+, speed -> 118.28361515418324
+, amount of railroad carts is -> 6
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4781
+, total percents covered -> 68.89643915125191
+, percents covered between two closest stations -> 53.57814872933441
+
+ Id of train is -> 8
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 134543
+, speed -> 174.95922206103737
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4777
+, total percents covered -> 74.98058497907462
+, percents covered between two closest stations -> 82.8900347236524
+
+ Id of train is -> 4
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 123423
+, speed -> 146.13033088421267
+, amount of railroad carts is -> 6
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4738
+, total percents covered -> 80.7092536627013
+, percents covered between two closest stations -> 63.15886810061141
+
+ Id of train is -> 17
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 86574
+, speed -> 111.39330747529877
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4715
+, total percents covered -> 68.52551058681905
+, percents covered between two closest stations -> 90.36892419813728
+
+ Id of train is -> 20
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 148265
+, speed -> 108.14884220902795
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4619
+, total percents covered -> 72.85448889822536
+, percents covered between two closest stations -> 24.748018812134546
+
+ Id of train is -> 10
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 110667
+, speed -> 95.91596345977413
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4553
+, total percents covered -> 70.19104766123968
+, percents covered between two closest stations -> 54.56537815581017
+
+ Id of train is -> 22
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 172219
+, speed -> 98.97151091629281
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4530
+, total percents covered -> 61.97866437603543
+, percents covered between two closest stations -> 95.97997598018618
+
+ Id of train is -> 18
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 153789
+, speed -> 159.82440003614565
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 2
+, total distance is -> 4416
+, total percents covered -> 87.16018388721893
+, percents covered between two closest stations -> 58.22434758957266
+
+ Id of train is -> 11
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 189613
+, speed -> 111.49365176188451
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4319
+, total percents covered -> 80.0067990683465
+, percents covered between two closest stations -> 20.345556890854837
+
+ Id of train is -> 14
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 106220
+, speed -> 108.24626384648974
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 2
+, total distance is -> 4267
+, total percents covered -> 73.38504157233714
+, percents covered between two closest stations -> 54.56258923059473
+
+ Id of train is -> 16
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 132351
+, speed -> 101.84890965316224
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4248
+, total percents covered -> 72.87777273032619
+, percents covered between two closest stations -> 68.04203473166359
+
+ Id of train is -> 2
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 113016
+, speed -> 133.48934789219004
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4241
+, total percents covered -> 81.20940005954691
+, percents covered between two closest stations -> 40.28953392425486
+
+ Id of train is -> 15
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 223410
+, speed -> 118.28361515418324
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4183
+, total percents covered -> 83.13872873283948
+, percents covered between two closest stations -> 96.23731004561549
+
+ Id of train is -> 19
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 165332
+, speed -> 107.95426189361385
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 2
+, total distance is -> 5913
+, total percents covered -> 62.13960617106653
+, percents covered between two closest stations -> 58.37781255581415
+
+ Id of train is -> 1
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 142096
+, speed -> 121.72247469756078
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 5484
+, total percents covered -> 63.46821843137959
+, percents covered between two closest stations -> 84.2132194030944
+
+ Id of train is -> 13
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 93101
+, speed -> 125.37414893848766
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 5292
+, total percents covered -> 70.87821285085842
+, percents covered between two closest stations -> 94.83496920964029
+
+ Id of train is -> 12
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 158505
+, speed -> 164.32295094105996
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 5144
+, total percents covered -> 91.74712700019671
+, percents covered between two closest stations -> 98.72147119791892
+
+ Id of train is -> 6
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 128835
+, speed -> 118.07080045663396
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 5123
+, total percents covered -> 79.8108906708865
+, percents covered between two closest stations -> 92.8707129802584
+
+ Id of train is -> 5
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 137526
+, speed -> 98.61569419000125
+, amount of railroad carts is -> 10
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 5062
+, total percents covered -> 76.75891222902511
+, percents covered between two closest stations -> 93.50020267972404
+
+ Id of train is -> 24
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 107397
+, speed -> 101.57416501570127
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 3
+, total distance is -> 5015
+, total percents covered -> 73.75837332186927
+, percents covered between two closest stations -> 80.09170793566969
+
+ Id of train is -> 7
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 232864
+, speed -> 133.36920747908704
+, amount of railroad carts is -> 10
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4995
+, total percents covered -> 73.80599913444904
+, percents covered between two closest stations -> 56.5218707898259
+
+ Id of train is -> 25
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 166805
+, speed -> 101.57416501570125
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4962
+, total percents covered -> 81.03426930357216
+, percents covered between two closest stations -> 85.52619334201815
+
+ Id of train is -> 21
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 119492
+, speed -> 137.12312846272326
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4870
+, total percents covered -> 75.99024709993658
+, percents covered between two closest stations -> 93.87040138341534
+
+ Id of train is -> 9
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 83177
+, speed -> 82.2921717594183
+, amount of railroad carts is -> 6
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4868
+, total percents covered -> 73.02091431624814
+, percents covered between two closest stations -> 93.21056525726536
+
+ Id of train is -> 3
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 108707
+, speed -> 92.87109064495262
+, amount of railroad carts is -> 6
+, amount of railroad carts that need electricity -> 3
+, total distance is -> 4821
+, total percents covered -> 81.51993895379266
+, percents covered between two closest stations -> 49.12579002049799
+
+ Id of train is -> 23
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 165710
+, speed -> 118.07080045663399
+, amount of railroad carts is -> 6
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4781
+, total percents covered -> 77.99771596855541
+, percents covered between two closest stations -> 31.997506898816802
+
+ Id of train is -> 8
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 134543
+, speed -> 174.64443717829738
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4777
+, total percents covered -> 87.33522926392772
+, percents covered between two closest stations -> 93.85242349689453
+
+ Id of train is -> 4
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 123423
+, speed -> 154.89014133382966
+, amount of railroad carts is -> 6
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4738
+, total percents covered -> 90.69795102000502
+, percents covered between two closest stations -> 88.22801136642748
+
+ Id of train is -> 17
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 86574
+, speed -> 101.5741650157013
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4715
+, total percents covered -> 78.59852476867972
+, percents covered between two closest stations -> 86.21871312616409
+
+ Id of train is -> 20
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 148265
+, speed -> 107.95426189361388
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4619
+, total percents covered -> 82.31119856881608
+, percents covered between two closest stations -> 26.075908669955044
+
+ Id of train is -> 10
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 110667
+, speed -> 84.91371281516075
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4553
+, total percents covered -> 77.54126121093528
+, percents covered between two closest stations -> 24.671476814575573
+
+ Id of train is -> 22
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 172219
+, speed -> 98.79344236356732
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4530
+, total percents covered -> 68.97405714289621
+, percents covered between two closest stations -> 77.79864638264876
+
+ Id of train is -> 18
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 153789
+, speed -> 169.40510406294842
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 2
+, total distance is -> 4416
+, total percents covered -> 99.83867932249422
+, percents covered between two closest stations -> 97.91087357224191
+
+ Id of train is -> 11
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 189613
+, speed -> 111.19288975042235
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4319
+, total percents covered -> 89.86821815624492
+, percents covered between two closest stations -> 98.0672157241274
+
+ Id of train is -> 14
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 106220
+, speed -> 108.05150825103978
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 2
+, total distance is -> 4267
+, total percents covered -> 82.53939266917735
+, percents covered between two closest stations -> 40.25631100071773
+
+ Id of train is -> 16
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 132351
+, speed -> 95.74339241747694
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4248
+, total percents covered -> 81.86270671916236
+, percents covered between two closest stations -> 39.572709517387736
+
+ Id of train is -> 2
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 113016
+, speed -> 141.4913922145635
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4241
+, total percents covered -> 93.73948107084563
+, percents covered between two closest stations -> 34.76446983158807
+
+ Id of train is -> 15
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 223410
+, speed -> 111.1928897504223
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4183
+, total percents covered -> 92.28527130441158
+, percents covered between two closest stations -> 97.6274928238519
+
+ Id of train is -> 14
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 141504
+, speed -> 79.928
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 5611
+, total percents covered -> 4.233256104081269
+, percents covered between two closest stations -> 34.27532467532468
+
+ Id of train is -> 19
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 100337
+, speed -> 79.928
+, amount of railroad carts is -> 6
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 5522
+, total percents covered -> 4.388409996378124
+, percents covered between two closest stations -> 68.84318181818182
+
+ Id of train is -> 7
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 181704
+, speed -> 79.928
+, amount of railroad carts is -> 10
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 5439
+, total percents covered -> 4.455377826806398
+, percents covered between two closest stations -> 41.14227504244482
+
+ Id of train is -> 8
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 132148
+, speed -> 79.928
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 5313
+, total percents covered -> 4.470694522868436
+, percents covered between two closest stations -> 47.41077844311378
+
+ Id of train is -> 4
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 175917
+, speed -> 79.928
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 5282
+, total percents covered -> 4.5878076486179475
+, percents covered between two closest stations -> 54.45573033707864
+
+ Id of train is -> 18
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 153333
+, speed -> 84.87200000000001
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 5231
+, total percents covered -> 4.727050277193653
+, percents covered between two closest stations -> 41.00696517412935
+
+ Id of train is -> 16
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 125641
+, speed -> 79.928
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 3
+, total distance is -> 5135
+, total percents covered -> 4.719143135345667
+, percents covered between two closest stations -> 30.791359593392627
+
+ Id of train is -> 15
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 162697
+, speed -> 75.27199999999999
+, amount of railroad carts is -> 10
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4973
+, total percents covered -> 4.682726724311281
+, percents covered between two closest stations -> 32.798873239436624
+
+ Id of train is -> 13
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 161382
+, speed -> 79.928
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 2
+, total distance is -> 4954
+, total percents covered -> 4.891562373839322
+, percents covered between two closest stations -> 60.733834586466166
+
+ Id of train is -> 6
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 146936
+, speed -> 87.41816000000001
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4833
+, total percents covered -> 6.925101593213326
+, percents covered between two closest stations -> 69.58215384615384
+
+ Id of train is -> 9
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 165911
+, speed -> 75.27199999999999
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4831
+, total percents covered -> 4.820368453736286
+, percents covered between two closest stations -> 34.19559471365639
+
+ Id of train is -> 11
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 88391
+, speed -> 75.27199999999999
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4792
+, total percents covered -> 4.859599332220367
+, percents covered between two closest stations -> 58.36390977443608
+
+ Id of train is -> 5
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 96634
+, speed -> 84.87200000000001
+, amount of railroad carts is -> 6
+, amount of railroad carts that need electricity -> 2
+, total distance is -> 4770
+, total percents covered -> 5.183899371069183
+, percents covered between two closest stations -> 47.461036468330136
+
+ Id of train is -> 12
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 169845
+, speed -> 75.27199999999999
+, amount of railroad carts is -> 10
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4702
+, total percents covered -> 4.952615908124202
+, percents covered between two closest stations -> 48.82012578616353
+
+ Id of train is -> 1
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 140799
+, speed -> 82.32584000000001
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 2
+, total distance is -> 4682
+, total percents covered -> 7.039680478428022
+, percents covered between two closest stations -> 46.619213578500705
+
+ Id of train is -> 23
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 217726
+, speed -> 79.928
+, amount of railroad carts is -> 10
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4616
+, total percents covered -> 5.249740034662046
+, percents covered between two closest stations -> 49.25365853658536
+
+ Id of train is -> 24
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 82891
+, speed -> 84.87200000000001
+, amount of railroad carts is -> 6
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4514
+, total percents covered -> 5.477891005759859
+, percents covered between two closest stations -> 58.3188679245283
+
+ Id of train is -> 2
+  Locomotive has: 
+, source which is ELECTRICAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 178813
+, speed -> 75.27199999999999
+, amount of railroad carts is -> 7
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4480
+, total percents covered -> 5.198035714285714
+, percents covered between two closest stations -> 77.36611295681064
+
+ Id of train is -> 10
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 180126
+, speed -> 84.87200000000001
+, amount of railroad carts is -> 10
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4479
+, total percents covered -> 5.520696584058943
+, percents covered between two closest stations -> 49.25737051792829
+
+ Id of train is -> 22
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 210768
+, speed -> 79.928
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4478
+, total percents covered -> 5.411523001339884
+, percents covered between two closest stations -> 39.085161290322574
+
+ Id of train is -> 20
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 179148
+, speed -> 84.87200000000001
+, amount of railroad carts is -> 9
+, amount of railroad carts that need electricity -> 2
+, total distance is -> 4399
+, total percents covered -> 5.621095703568993
+, percents covered between two closest stations -> 48.201169590643275
+
+ Id of train is -> 25
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 149930
+, speed -> 84.87200000000001
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4318
+, total percents covered -> 5.726540064844836
+, percents covered between two closest stations -> 37.46545454545455
+
+ Id of train is -> 21
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 128956
+, speed -> 84.87200000000001
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 1
+, total distance is -> 4185
+, total percents covered -> 5.908530465949821
+, percents covered between two closest stations -> 82.15016611295682
+
+ Id of train is -> 3
+  Locomotive has: 
+, source which is DIESEL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 221045
+, speed -> 79.928
+, amount of railroad carts is -> 8
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4176
+, total percents covered -> 5.802873563218391
+, percents covered between two closest stations -> 67.68938547486033
+
+ Id of train is -> 17
+  Locomotive has: 
+, source which is CHARCOAL
+, maximum number of connected carts connected to power grid is 4
+, maximum number of connected railroad carts is 10
+, maximum amount of transported load is 300000
+,total weight of train is -> 138702
+, speed -> 75.27199999999999
+, amount of railroad carts is -> 6
+, amount of railroad carts that need electricity -> 0
+, total distance is -> 4061
+, total percents covered -> 5.7343511450381675
+, percents covered between two closest stations -> 31.59728629579376

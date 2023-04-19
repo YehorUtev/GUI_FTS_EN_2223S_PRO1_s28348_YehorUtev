@@ -25,7 +25,7 @@ public class Train implements Runnable{
         this.locomotive = new Locomotive();
         this.route = new ArrayList<>();
         this.id = id;
-        this.speed = 120;
+        this.speed = 80;
         this.percentsCovered = 0;
         this.distanceCovered = 0;
         this.totalDistance = 0;
@@ -243,7 +243,7 @@ public class Train implements Runnable{
                 } catch (RailRoadHazardException e) {
                     System.out.println(e.getMessage());
                 }catch (Exception e){
-                    System.out.println("Unknown error occurred, please restart application");
+                    //System.out.println("Unknown error occurred, please restart application");
                 }
             }
             //System.out.println("Train with id -> " + id + " ,got to the last station");
